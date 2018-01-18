@@ -1,6 +1,7 @@
 # DemoJavaProject
 
 Para birimi dönüştürücü Java Uygulaması. User email eklemesi.
+Push ekleme.
 
 License
 -------
